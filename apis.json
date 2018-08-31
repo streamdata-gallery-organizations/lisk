@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Lisk",
+	"description": "This is a repository of lisk APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/lisk.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://lisk.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Lisk",
+			"x-api-slug": "lisk",
+			"description": "Lisk makes it easy for developers to build and deploy blockchain applications in JavaScript. Join the leading platform for world-changing dapps.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26631-lisk.jpg",
+			"humanURL": "https://lisk.io",
+			"baseURL": "https:////api",
+			"tags": "Lisk",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/lisk/master/_listings/lisk/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Lisk",
+	"include": [
+		{
+			"name": "Lisk",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/lisk/master/_listings/lisk/apis.yaml"
+		}
+	]
+}
